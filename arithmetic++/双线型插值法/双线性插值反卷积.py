@@ -1,7 +1,4 @@
-'''
-首先生成3*3*3的黑色图
 
-'''
 __author_ = "大魔王W"
 
 import numpy as np
