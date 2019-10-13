@@ -10,7 +10,7 @@ retval,image_bin=cv2.threshold(image_bin,245,255,cv2.THRESH_BINARY_INV)
 
 
 contours, hierarchy = cv2.findContours(image_bin.copy(),cv2.RETR_CCOMP , cv2.CHAIN_APPROX_SIMPLE)
-print(len(contours))
+#print(len(contours))
 #
 
 # cv2.drawContours(image_bin, contours, -1, (0, 0, 255), 3)

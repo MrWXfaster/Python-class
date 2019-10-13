@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="119c4bd1-c717-4dbe-833c-b3b8a526e5b0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../双线型插值法/双线性插值反卷积.py" beforeDir="false" afterPath="$PROJECT_DIR$/../双线型插值法/双线性插值反卷积.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../for_Image++.py" beforeDir="false" afterPath="$PROJECT_DIR$/../for_Image++.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,8 +26,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
       <pane id="Scope" />
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">

@@ -1,6 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 from scipy import optimize
+import math
 
 
 # 直线方程函数
@@ -76,11 +77,18 @@ for i in range(len(x)):
 # sess = tf.Session()
 # print(sess.run([x1,y1,xy_grid]))
 
-import cv2
+# import cv2
+#
+# src =cv2.imread('/home/asus/PycharmProjects/arithmetic/venv/Figure5.png')
+#
+# cv2.namedWindow('input_image')
+# cv2.imshow('input_image', src)
+# cv2.waitKey(0)
+# cv2.destroyAllWindows()
 
-src =cv2.imread('/home/asus/PycharmProjects/arithmetic/venv/Figure5.png')
-
-cv2.namedWindow('input_image')
-cv2.imshow('input_image', src)
-cv2.waitKey(0)
-cv2.destroyAllWindows()
+print(math.log(2))
+print(math.fabs(-300))
+print(round(100.98,0))
+print(np.arange(1,10, 0.1))
+N = 10
+print(np.random.rand(N))

@@ -24,4 +24,3 @@ sess = tf.Session()
 result3 = sess.run(a)
 print(result3)
 sess.close()
-

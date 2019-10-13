@@ -1,21 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2b6870f2-e82a-4592-b55f-10ee33911bbe" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../多线程/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../多线程/01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../多线程/GIL.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../多线程/Queue.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../多线程/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../多线程/add thread.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../多线程/jion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../多线程/lock_.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Image.png" beforeDir="false" afterPath="$PROJECT_DIR$/Image.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm_implementation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm_implementation/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/curve_fitting.py" beforeDir="false" afterPath="$PROJECT_DIR$/curve_fitting.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/for_Image++.py" beforeDir="false" afterPath="$PROJECT_DIR$/for_Image++.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/封闭区域找内切圆.py" beforeDir="false" afterPath="$PROJECT_DIR$/封闭区域找内切圆.py" afterDir="false" />
+    <list default="true" id="28896fa0-249b-47ce-afd3-e0c99d49903a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GIL.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/add thread.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lock_.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arithmetic++/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../arithmetic++/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arithmetic++/algorithm_implementation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../arithmetic++/algorithm_implementation/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arithmetic++/for_Image++.py" beforeDir="false" afterPath="$PROJECT_DIR$/../arithmetic++/for_Image++.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,31 +21,41 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/for_Image++.py">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/add thread.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="82" column="62" selection-start-line="82" selection-start-column="62" selection-end-line="82" selection-end-column="62" />
-              <folding>
-                <element signature="e#0#18#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="596">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Figure_1.png">
-          <provider selected="true" editor-type-id="images" />
+        <entry file="file://$PROJECT_DIR$/GIL.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/封闭区域找内切圆.py">
+        <entry file="file://$PROJECT_DIR$/lock_.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="334">
-              <caret line="30" column="7" selection-start-line="30" selection-start-column="7" selection-end-line="30" selection-end-column="7" />
+            <state relative-caret-position="168">
+              <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Queue.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="644">
+              <caret line="32" column="31" lean-forward="true" selection-start-line="32" selection-start-column="31" selection-end-line="32" selection-end-column="31" />
               <folding>
-                <element signature="e#24#34#0" expanded="true" />
+                <element signature="e#352#368#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -69,13 +76,15 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/algorithm_implementation/np.grid().py" />
-        <option value="$PROJECT_DIR$/grid().py" />
-        <option value="$PROJECT_DIR$/test1.py" />
-        <option value="$PROJECT_DIR$/反色.py" />
-        <option value="$PROJECT_DIR$/curve_fitting.py" />
-        <option value="$PROJECT_DIR$/封闭区域找内切圆.py" />
-        <option value="$PROJECT_DIR$/for_Image++.py" />
+        <option value="$PROJECT_DIR$/note.md" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/lock.py" />
+        <option value="$PROJECT_DIR$/01.py" />
+        <option value="$PROJECT_DIR$/lock_.py" />
+        <option value="$PROJECT_DIR$/GIL.py" />
+        <option value="$PROJECT_DIR$/add thread.py" />
+        <option value="$PROJECT_DIR$/jion.py" />
+        <option value="$PROJECT_DIR$/Queue.py" />
       </list>
     </option>
   </component>
@@ -85,29 +94,31 @@
     <option name="width" value="1847" />
     <option name="height" value="1085" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="arithmetic++" type="b2602c69:ProjectViewProjectNode" />
-              <item name="arithmetic++" type="462c0819:PsiDirectoryNode" />
+              <item name="多线程" type="b2602c69:ProjectViewProjectNode" />
+              <item name="多线程" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -121,9 +132,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.for_Image++">
-    <configuration name="封闭区域找内切圆" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="arithmetic++" />
+  <component name="RunManager" selected="Python.Queue">
+    <configuration name="GIL" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="多线程" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -134,7 +145,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/封闭区域找内切圆.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GIL.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -143,8 +154,8 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="curve_fitting" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="arithmetic++" />
+    <configuration name="Queue" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="多线程" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -155,7 +166,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/curve_fitting.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Queue.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -164,8 +175,8 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="for_Image++" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="arithmetic++" />
+    <configuration name="add thread" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="多线程" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -176,7 +187,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/for_Image++.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/add thread.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -185,8 +196,8 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="grid()" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="arithmetic++" />
+    <configuration name="jion" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="多线程" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -197,7 +208,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/grid().py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/jion.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -206,8 +217,8 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test1" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="arithmetic++" />
+    <configuration name="lock" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="多线程" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -218,7 +229,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lock_.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -229,11 +240,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.for_Image++" />
-        <item itemvalue="Python.封闭区域找内切圆" />
-        <item itemvalue="Python.curve_fitting" />
-        <item itemvalue="Python.test1" />
-        <item itemvalue="Python.grid()" />
+        <item itemvalue="Python.Queue" />
+        <item itemvalue="Python.GIL" />
+        <item itemvalue="Python.add thread" />
+        <item itemvalue="Python.lock" />
+        <item itemvalue="Python.jion" />
       </list>
     </recent_temporary>
   </component>
@@ -242,91 +253,89 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="2b6870f2-e82a-4592-b55f-10ee33911bbe" name="Default Changelist" comment="" />
-      <created>1560342002793</created>
+      <changelist id="28896fa0-249b-47ce-afd3-e0c99d49903a" name="Default Changelist" comment="" />
+      <created>1563777965201</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1560342002793</updated>
+      <updated>1563777965201</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="1993" y="-5" width="1847" height="1085" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15824176" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13021979" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49945053" weight="0.3197861" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.30588236" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50054944" side_tool="true" weight="0.29411766" />
-      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32941177" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/algorithm_implementation/np.grid().py" />
-    <entry file="file://$USER_HOME$/anaconda3/envs/tensorflow-gpu/lib/python3.5/site-packages/matplotlib/__init__.py">
+    <entry file="file://$PROJECT_DIR$/01.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="1897" selection-start-line="1897" selection-end-line="1897" />
+        <state relative-caret-position="224">
+          <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/grid().py" />
-    <entry file="file://$PROJECT_DIR$/text.py" />
-    <entry file="file://$PROJECT_DIR$/Image+1.png" />
-    <entry file="file://$PROJECT_DIR$/Image++.png" />
-    <entry file="file://$PROJECT_DIR$/test1.py" />
-    <entry file="file://$PROJECT_DIR$/algorithm_implementation/test2_opencv.py" />
-    <entry file="file://$PROJECT_DIR$/picture2.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Figure_12png.png" />
-    <entry file="file://$PROJECT_DIR$/反色.py" />
-    <entry file="file://$PROJECT_DIR$/1.jpeg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/curve_fitting.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="87" lean-forward="true" selection-start-line="87" selection-end-line="87" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="616">
+            <caret line="22" column="37" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Image.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Figure_1.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/封闭区域找内切圆.py">
+    <entry file="file://$PROJECT_DIR$/add thread.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="334">
-          <caret line="30" column="7" selection-start-line="30" selection-start-column="7" selection-end-line="30" selection-end-column="7" />
-          <folding>
-            <element signature="e#24#34#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="596">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/for_Image++.py">
+    <entry file="file://$PROJECT_DIR$/GIL.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="82" column="62" selection-start-line="82" selection-start-column="62" selection-end-line="82" selection-end-column="62" />
+        <state relative-caret-position="168">
+          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jion.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lock_.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Queue.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="644">
+          <caret line="32" column="31" lean-forward="true" selection-start-line="32" selection-start-column="31" selection-end-line="32" selection-end-column="31" />
           <folding>
-            <element signature="e#0#18#0" expanded="true" />
+            <element signature="e#352#368#0" expanded="true" />
           </folding>
         </state>
       </provider>

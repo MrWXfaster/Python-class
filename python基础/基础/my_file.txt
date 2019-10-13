@@ -1,4 +1,0 @@
-This is first test.
- this is next line.
- this is last line
- This is appened file
